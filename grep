@@ -1,0 +1,15 @@
+Grep (file pattern searcher)
+
+grep [pattern] file
+  - finds lines in file that contain the specified pattern
+  
+[command] | grep [pattern]
+  - finds lines in the output of a command that contain the pattern
+  
+examples:
+
+grep hello hello.rb
+  - finds any line in hello.rb that contains "hello"
+
+env | grep ^T
+  - finds env variables that start with "T"
