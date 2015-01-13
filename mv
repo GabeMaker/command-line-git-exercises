@@ -1,0 +1,12 @@
+Examples:
+
+touch file
+mv file newfile
+  - changes the name of file to 'newfile' (stays in current working directory)
+
+mkdir dir
+mv newfile dir
+  - moves newfile into dir (keeps same name)
+
+mv dir/newfile ./newerfile
+  - moves newfile into the current directory and renames it 'newerfile'
