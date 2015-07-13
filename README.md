@@ -1,4 +1,6 @@
-## Week 2 - Version Control (Exercises)
+# Version Control (Exercises)
+
+*(from Makers Academy PreCourse)*
 
 This repo contains some of the most useful shell commands
 
